@@ -3,13 +3,13 @@ import time
 from steampy.client import SteamClient, TradeOfferState
 
 # Set API key
-api_key = ''
+api_key = 'ADBDB154E7B188BCF0CC3B40F68CE780'
 # Set path to SteamGuard file
-steamguard_path = ''
+steamguard_path = 'D:\\steam\\sda\\SDA.1.0.15\\maFiles\\76561199316192204.maFile'
 # Steam username
-username = ''
+username = 'Mj0Hv1Vp8Wu8'
 # Steam password
-password = ''
+password = 'yFBJYO504'
 
 
 def main() -> None:
